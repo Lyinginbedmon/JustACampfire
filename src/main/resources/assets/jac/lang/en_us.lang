@@ -1,0 +1,3 @@
+tile.jac:campfire_unlit.name=Campfire
+tile.jac:campfire_lit.name=Lit Campfire
+tile.jac:campfire_burnt.name=Extinguished Campfire

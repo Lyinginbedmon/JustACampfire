@@ -1,0 +1,24 @@
+{
+    "variants":
+    {
+        "facing=north,sticks=0": { "model": "jac:campfire_unlit_0" },
+        "facing=north,sticks=1": { "model": "jac:campfire_unlit_1" },
+        "facing=north,sticks=2": { "model": "jac:campfire_unlit_2" },
+        "facing=north,sticks=3": { "model": "jac:campfire_unlit_3" },
+        
+        "facing=south,sticks=0": { "model": "jac:campfire_unlit_0", "y": 180 },
+        "facing=south,sticks=1": { "model": "jac:campfire_unlit_1", "y": 180 },
+        "facing=south,sticks=2": { "model": "jac:campfire_unlit_2", "y": 180 },
+        "facing=south,sticks=3": { "model": "jac:campfire_unlit_3", "y": 180 },
+        
+        "facing=east,sticks=0": { "model": "jac:campfire_unlit_0", "y": 90 },
+        "facing=east,sticks=1": { "model": "jac:campfire_unlit_1", "y": 90 },
+        "facing=east,sticks=2": { "model": "jac:campfire_unlit_2", "y": 90 },
+        "facing=east,sticks=3": { "model": "jac:campfire_unlit_3", "y": 90 },
+        
+        "facing=west,sticks=0": { "model": "jac:campfire_unlit_0", "y": 270 },
+        "facing=west,sticks=1": { "model": "jac:campfire_unlit_1", "y": 270 },
+        "facing=west,sticks=2": { "model": "jac:campfire_unlit_2", "y": 270 },
+        "facing=west,sticks=3": { "model": "jac:campfire_unlit_3", "y": 270 }
+    }
+}

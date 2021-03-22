@@ -1,0 +1,17 @@
+{
+    "multipart":
+    [
+       {   "when": { "facing": "north" },
+           "apply": { "model": "jac:campfire_burnt" }
+       },
+       {   "when": { "facing": "south" },
+           "apply": { "model": "jac:campfire_burnt", "y": 180 }
+       },
+       {   "when": { "facing": "east" },
+           "apply": { "model": "jac:campfire_burnt", "y": 90 }
+       },
+       {   "when": { "facing": "west" },
+           "apply": { "model": "jac:campfire_burnt", "y": 270 }
+       }
+    ]
+}
